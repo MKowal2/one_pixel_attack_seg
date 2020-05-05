@@ -4,3 +4,8 @@ In this repository, I experiement with the characteristic found in the paper [On
 
 I apply a similar attack to experiment with how many pixels are required to significantly reduce the accuracy for a deeplabv2 semantic segmentation network. 
 It takes more than 1 pixel to reduce the accuracy more than 0.01%, but with 6+ pixels, the accuracy can drop on a single image by a percent.
+
+
+<p align="center">
+  <img src="/experiments/num_pix = 6, iters=75, pop_size=250,img.png" height="400">
+</p>
