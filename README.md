@@ -12,5 +12,5 @@ Here is an example with 6 pixels, 75 iterations, and population size of 250. You
 </p>
 
 <p align="center">
-  <img src="/experiments/num_pix = 6, iters=75, pop_size=250,seg.png" height="400">
+  <img src="/experiments/num_pix = 6, iters=75, pop_size=250,seg.png" height="700">
 </p>
